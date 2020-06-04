@@ -1,6 +1,6 @@
 # ODShareSDKSample-iOS
 奥丁ShareSDK示例demo
-# OdinShare
+# OdinShare集成
 奥丁分享SDK
 ### CocoaPods
 [CocoaPods](http://cocoapods.org) 是向项目添加OdinShare的推荐方法。
